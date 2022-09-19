@@ -14,7 +14,7 @@ The purpose of this project is to create a summary DataFrame of the ride-sharing
 ## Summary
 
 1) As expected, the urban cities have more use of the ride sharing services due to having a bigger population than the suburban and rural areas.
-   **Adding more drivers to the urban cities would help support the never ending, high demand of rides needed in the urban cities.**
+   **Adding more drivers to the urban cities would help support the high demand of rides needed in the urban cities.**
    
    <img width="584" alt="Screen Shot 2022-09-18 at 11 32 12 PM" src="https://user-images.githubusercontent.com/110702997/190950202-2bbacc52-d2b1-4b3e-bd07-542ca917e2de.png">
 
