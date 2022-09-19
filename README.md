@@ -8,3 +8,5 @@ The purpose of this project is to create a summary DataFrame of the ride-sharing
 ## Results
 
 ![Screen Shot 2022-09-18 at 11 09 01 PM](https://user-images.githubusercontent.com/110702997/190948517-9cd823c4-9460-4f91-8591-ba9d7e54e1b2.png)
+
+![Screen Shot 2022-09-18 at 11 13 34 PM](https://user-images.githubusercontent.com/110702997/190948834-3d50bce3-4dd2-4954-b421-279b12119629.png)
